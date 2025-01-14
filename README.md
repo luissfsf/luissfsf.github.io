@@ -1,5 +1,7 @@
 # luissfsf.github.io
 
+Me llamo Luis Miguel Fonseca Aponte y quiero graduarme cuanto antes y me interesan mucho los animales
+
  Top 7 de los animales con la mayor presión de mordida (PSI) y  características de cada uno:
 
 Tiburón Blanco (4000 PSI):
@@ -29,3 +31,8 @@ Características: Este gran depredador del Ártico tiene una mordida fuerte que 
 Hiena Manchada (1100 PSI):
 
 Características: Las hienas tienen mandíbulas extremadamente fuertes que les permiten triturar huesos y consumir casi todas las partes de sus presas. Son carroñeras eficientes y también cazadoras activas
+
+Referencias:
+1-BioEnciclopedia
+2-EcologiaVerde
+3-WikiAnimales
